@@ -56,6 +56,9 @@
         <div>
           dont have account? <a href="/register" class="text-decoration-none">Sign Up</a>
         </div>
+		  <a href="/akses">
+			<h3>Lihat Akses Akun</h3>
+		  </a>
       </form>
     </div>
   </div>
